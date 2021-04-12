@@ -1,3 +1,9 @@
+## HTML5 Form
+
+´´sh
+$ pip3 install flask && python3 server.py
+´´
+
 # ![alt text](https://assets.breatheco.de/apis/img/images.php?blob&random&cat=icon&tags=breathecode,32)  HTML5 Form
 
 Forms are boring, they are difficult to style, and we have to start dealing with the many user-related issues here (Like usability, security, validations, etc.).
